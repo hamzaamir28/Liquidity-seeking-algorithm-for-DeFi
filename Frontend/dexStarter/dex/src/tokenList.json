@@ -1,0 +1,16 @@
+[
+    {
+        "ticker": "USDC",
+        "img": "https://cdn.moralis.io/eth/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48.png",
+        "name": "USD Coin",
+        "address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+        "decimals": 6
+    },
+    {
+        "ticker": "WETH",
+        "img": "https://cdn.moralis.io/eth/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2.png",
+        "name": "Wrapped Ethereum",
+        "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "decimals": 18
+    }
+]
